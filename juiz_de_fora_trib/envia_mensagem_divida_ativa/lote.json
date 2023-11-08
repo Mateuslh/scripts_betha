@@ -1,0 +1,1796 @@
+[
+    {
+        "-7122730758843267152": [
+            {
+                "idIntegracao": "id divida 163266791",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6805/2023/DEPREM/PGM - DECIS\u00c3O JUDICIAL - PROCESSO 0454018-94.2015.8.13.0145",
+                    "dhManutencao": "2023-11-07 12:13:24",
+                    "dhMovimentacao": "2023-11-07 12:13:24",
+                    "idDividas": 163266791,
+                    "nroProcesso": "MEMO6805/2023/DEPREM/PGM",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6805/2023/DEPREM/PGM - DECIS\u00c3O JUDICIAL - PROCESSO 0454018-94.2015.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162602400",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 162602400,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162647831",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 162647831,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163348495",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 163348495,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163570969",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7261/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 0002193-11.2017.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:24:06",
+                    "dhMovimentacao": "2023-11-07 11:24:06",
+                    "idDividas": 163570969,
+                    "nroProcesso": "MEMO 7261/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7261/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 0002193-11.2017.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163590491",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 09:47:52",
+                    "dhMovimentacao": "2023-11-07 09:47:52",
+                    "idDividas": 163590491,
+                    "nroProcesso": "MEMO 7713/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163082312",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163082312,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163128223",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163128223,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163229919",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163229919,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566681",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163566681,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163329750",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 16:06:09",
+                    "dhMovimentacao": "2023-11-06 16:06:09",
+                    "idDividas": 163329750,
+                    "nroProcesso": "MEMO 7676/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162943696",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 162943696,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163065814",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163065814,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163085905",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163085905,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163650997",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163650997,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163555792",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163555792,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163559903",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163559903,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163694575",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163694575,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162773169",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437",
+                    "dhManutencao": "2023-11-06 14:30:34",
+                    "dhMovimentacao": "2023-11-06 14:30:34",
+                    "idDividas": 162773169,
+                    "nroProcesso": "MEMO 7829/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456103",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 162456103,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163224294",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 163224294,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163077434",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163077434,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163449069",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163449069,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566057",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163566057,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163820119",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163820119,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163514009",
+                "dividasMovtos": {
+                    "comentario": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022",
+                    "dhManutencao": "2023-10-31 17:44:38",
+                    "dhMovimentacao": "2023-10-31 17:44:38",
+                    "idDividas": 163514009,
+                    "nroProcesso": "PROT.52798/2022",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163001279",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163001279,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163005587",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163005587,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163110422",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163110422,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163211643",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163211643,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164113184",
+                "dividasMovtos": {
+                    "comentario": "Duplicidade",
+                    "dhManutencao": "2023-10-30 10:58:10",
+                    "dhMovimentacao": "2023-10-30 10:58:10",
+                    "idDividas": 164113184,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Duplicidade"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162582674",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162582674,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162672975",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162672975,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163424193",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 163424193,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456912",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456912,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456913",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456913,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520678",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520678,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520739",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520739,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162678995",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162678995,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162970272",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162970272,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163010927",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 163010927,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163684079",
+                "dividasMovtos": {
+                    "comentario": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023",
+                    "dhManutencao": "2023-10-23 15:32:02",
+                    "dhMovimentacao": "2023-10-23 15:32:02",
+                    "idDividas": 163684079,
+                    "nroProcesso": "1 DOC PROT 159.484/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163553488",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163553488,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163754636",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163754636,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163954010",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163954010,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164085376",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164085376,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164110231",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164110231,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995314",
+                "dividasMovtos": {
+                    "comentario": "migra\u00e7\u00e3o incorreta",
+                    "dhManutencao": "2023-10-16 14:24:23",
+                    "dhMovimentacao": "2023-10-16 14:24:23",
+                    "idDividas": 163995314,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "migra\u00e7\u00e3o incorreta"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995082",
+                "dividasMovtos": {
+                    "comentario": "Cancelada no Sifan",
+                    "dhManutencao": "2023-10-05 16:05:13",
+                    "dhMovimentacao": "2023-10-05 16:05:13",
+                    "idDividas": 163995082,
+                    "nroProcesso": "0001",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Cancelada no Sifan"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163883928",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163883928,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            }
+        ],
+        "4235959645158712564": [
+            {
+                "idIntegracao": "id divida 163952744",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163952744,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            }
+        ]
+    },
+    {
+        "4553573165231103829": [
+            {
+                "idIntegracao": "id divida 163266791",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6805/2023/DEPREM/PGM - DECIS\u00c3O JUDICIAL - PROCESSO 0454018-94.2015.8.13.0145",
+                    "dhManutencao": "2023-11-07 12:13:24",
+                    "dhMovimentacao": "2023-11-07 12:13:24",
+                    "idDividas": 163266791,
+                    "nroProcesso": "MEMO6805/2023/DEPREM/PGM",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6805/2023/DEPREM/PGM - DECIS\u00c3O JUDICIAL - PROCESSO 0454018-94.2015.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162602400",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 162602400,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162647831",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 162647831,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163348495",
+                "dividasMovtos": {
+                    "comentario": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:45:15",
+                    "dhMovimentacao": "2023-11-07 11:45:15",
+                    "idDividas": 163348495,
+                    "nroProcesso": "MEMO 7295/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "A-MEMO 7295/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 2518563-91.2005.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163570969",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7261/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 0002193-11.2017.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 11:24:06",
+                    "dhMovimentacao": "2023-11-07 11:24:06",
+                    "idDividas": 163570969,
+                    "nroProcesso": "MEMO 7261/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7261/2023-OBITO ANTERIOR AO AJUIZAMENTO-PROCESSO 0002193-11.2017.8.13.0145-PGM/DEPREM"
+                }
+            }
+        ]
+    },
+    {
+        "-2507935753485761606": [
+            {
+                "idIntegracao": "id divida 163590491",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 09:47:52",
+                    "dhMovimentacao": "2023-11-07 09:47:52",
+                    "idDividas": 163590491,
+                    "nroProcesso": "MEMO 7713/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163082312",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163082312,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163128223",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163128223,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163229919",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163229919,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566681",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163566681,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163329750",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 16:06:09",
+                    "dhMovimentacao": "2023-11-06 16:06:09",
+                    "idDividas": 163329750,
+                    "nroProcesso": "MEMO 7676/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162943696",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 162943696,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163065814",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163065814,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163085905",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163085905,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163650997",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163650997,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163555792",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163555792,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163559903",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163559903,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163694575",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163694575,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162773169",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437",
+                    "dhManutencao": "2023-11-06 14:30:34",
+                    "dhMovimentacao": "2023-11-06 14:30:34",
+                    "idDividas": 162773169,
+                    "nroProcesso": "MEMO 7829/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456103",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 162456103,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163224294",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 163224294,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163077434",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163077434,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163449069",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163449069,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566057",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163566057,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163820119",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163820119,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163514009",
+                "dividasMovtos": {
+                    "comentario": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022",
+                    "dhManutencao": "2023-10-31 17:44:38",
+                    "dhMovimentacao": "2023-10-31 17:44:38",
+                    "idDividas": 163514009,
+                    "nroProcesso": "PROT.52798/2022",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163001279",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163001279,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163005587",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163005587,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163110422",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163110422,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163211643",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163211643,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164113184",
+                "dividasMovtos": {
+                    "comentario": "Duplicidade",
+                    "dhManutencao": "2023-10-30 10:58:10",
+                    "dhMovimentacao": "2023-10-30 10:58:10",
+                    "idDividas": 164113184,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Duplicidade"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162582674",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162582674,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162672975",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162672975,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163424193",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 163424193,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456912",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456912,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456913",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456913,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520678",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520678,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520739",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520739,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162678995",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162678995,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162970272",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162970272,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163010927",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 163010927,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163684079",
+                "dividasMovtos": {
+                    "comentario": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023",
+                    "dhManutencao": "2023-10-23 15:32:02",
+                    "dhMovimentacao": "2023-10-23 15:32:02",
+                    "idDividas": 163684079,
+                    "nroProcesso": "1 DOC PROT 159.484/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163553488",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163553488,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163754636",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163754636,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163954010",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163954010,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164085376",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164085376,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164110231",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164110231,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995314",
+                "dividasMovtos": {
+                    "comentario": "migra\u00e7\u00e3o incorreta",
+                    "dhManutencao": "2023-10-16 14:24:23",
+                    "dhMovimentacao": "2023-10-16 14:24:23",
+                    "idDividas": 163995314,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "migra\u00e7\u00e3o incorreta"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995082",
+                "dividasMovtos": {
+                    "comentario": "Cancelada no Sifan",
+                    "dhManutencao": "2023-10-05 16:05:13",
+                    "dhMovimentacao": "2023-10-05 16:05:13",
+                    "idDividas": 163995082,
+                    "nroProcesso": "0001",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Cancelada no Sifan"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163883928",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163883928,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163952744",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163952744,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            }
+        ]
+    },
+    {
+        "-4634798791920282476": [
+            {
+                "idIntegracao": "id divida 163590491",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-07 09:47:52",
+                    "dhMovimentacao": "2023-11-07 09:47:52",
+                    "idDividas": 163590491,
+                    "nroProcesso": "MEMO 7713/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7713/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0317842-50.2011.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163082312",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163082312,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163128223",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163128223,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163229919",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163229919,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566681",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145",
+                    "dhManutencao": "2023-11-06 16:11:58",
+                    "dhMovimentacao": "2023-11-06 16:11:58",
+                    "idDividas": 163566681,
+                    "nroProcesso": "MEMO 6473/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6473/2023/SPA - ILEGITIMIDADE PASSIVA - DECIS\u00c3O JUDICIAL - PROCESSO 0149961-14.2012.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163329750",
+                "dividasMovtos": {
+                    "comentario": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 16:06:09",
+                    "dhMovimentacao": "2023-11-06 16:06:09",
+                    "idDividas": 163329750,
+                    "nroProcesso": "MEMO 7676/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA-MEMO 7676/2023-PRESCRI\u00c7\u00c3O INTERCORRENTE-PROCESSO 0371301-88.2016.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162943696",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 162943696,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163065814",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163065814,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163085905",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163085905,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163650997",
+                "dividasMovtos": {
+                    "comentario": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5",
+                    "dhManutencao": "2023-11-06 15:42:11",
+                    "dhMovimentacao": "2023-11-06 15:42:11",
+                    "idDividas": 163650997,
+                    "nroProcesso": "MEMO 6474/2023/SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMORANDO 6474/2023/SPA - PRESCRI\u00c7\u00c3O INTERCORRENTE - DECISAO JUDICIAL -  PROCESSO 0145.12.060.062-5"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163555792",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163555792,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163559903",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163559903,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163694575",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:56:31",
+                    "dhMovimentacao": "2023-11-06 14:56:31",
+                    "idDividas": 163694575,
+                    "nroProcesso": "MEMORANDO 6818/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 6818/2023-OBITO ANTERIOR AO AJUIZAMENTO - PROCESSO 5026602-58.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162773169",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437",
+                    "dhManutencao": "2023-11-06 14:30:34",
+                    "dhMovimentacao": "2023-11-06 14:30:34",
+                    "idDividas": 162773169,
+                    "nroProcesso": "MEMO 7829/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7829/2023-SPA/DEPREM-PRESCRICAO INTERCORRENTE -DECISAO JUDICIAL PROCESSO 0145052313437"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456103",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 162456103,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163224294",
+                "dividasMovtos": {
+                    "comentario": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM",
+                    "dhManutencao": "2023-11-06 14:22:53",
+                    "dhMovimentacao": "2023-11-06 14:22:53",
+                    "idDividas": 163224294,
+                    "nroProcesso": "MEMORANDO 7937/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "SPA - MEMORANDO 7937/2023-DECISAO JUDICIAL- PROCESSO 5014076-59.2020.8.13.0145-PGM/DEPREM"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163077434",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163077434,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163449069",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163449069,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163566057",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163566057,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163820119",
+                "dividasMovtos": {
+                    "comentario": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145",
+                    "dhManutencao": "2023-11-01 15:34:44",
+                    "dhMovimentacao": "2023-11-01 15:34:44",
+                    "idDividas": 163820119,
+                    "nroProcesso": "MEMO 7830/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 7830/2023-SPA/DEPREM-DECIS\u00c3O JUDICIAL PROCESSO 0296067-08.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163514009",
+                "dividasMovtos": {
+                    "comentario": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022",
+                    "dhManutencao": "2023-10-31 17:44:38",
+                    "dhMovimentacao": "2023-10-31 17:44:38",
+                    "idDividas": 163514009,
+                    "nroProcesso": "PROT.52798/2022",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "PROTOCOLO 52798/2022-nulidade do Auto de Infra\u00e7\u00e3o-decis\u00e3o secret\u00e1ria sesmaur em despacho 10-52798/2022"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163001279",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163001279,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163005587",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163005587,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163110422",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163110422,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163211643",
+                "dividasMovtos": {
+                    "comentario": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145",
+                    "dhManutencao": "2023-10-30 14:21:38",
+                    "dhMovimentacao": "2023-10-30 14:21:38",
+                    "idDividas": 163211643,
+                    "nroProcesso": "MEMO 6870/2023-SPA",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "MEMO 6870/2023-SPA/DEPREM-DECISAO JUDICIAL PROCESSO 0123832-35.2013.8.13.0145"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164113184",
+                "dividasMovtos": {
+                    "comentario": "Duplicidade",
+                    "dhManutencao": "2023-10-30 10:58:10",
+                    "dhMovimentacao": "2023-10-30 10:58:10",
+                    "idDividas": 164113184,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Duplicidade"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162582674",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162582674,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162672975",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 162672975,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163424193",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023",
+                    "dhManutencao": "2023-10-27 16:28:21",
+                    "dhMovimentacao": "2023-10-27 16:28:21",
+                    "idDividas": 163424193,
+                    "nroProcesso": "Prot. 15.928/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 15.928/2023 -DECIS\u00c3O-PGM/PGA DESPACHO 13- 15.928/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456912",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456912,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162456913",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162456913,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520678",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520678,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162520739",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162520739,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162678995",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162678995,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 162970272",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 162970272,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163010927",
+                "dividasMovtos": {
+                    "comentario": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023",
+                    "dhManutencao": "2023-10-27 15:41:59",
+                    "dhMovimentacao": "2023-10-27 15:41:59",
+                    "idDividas": 163010927,
+                    "nroProcesso": "Protocolo 51.999/2023 -",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1doc Protocolo 51.999/2023 - prescri\u00e7\u00e3o - parecer em despacho 6- 51.999/2023 - decis\u00e3o PGM?PGM em despacho 7- 51.999/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163684079",
+                "dividasMovtos": {
+                    "comentario": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023",
+                    "dhManutencao": "2023-10-23 15:32:02",
+                    "dhMovimentacao": "2023-10-23 15:32:02",
+                    "idDividas": 163684079,
+                    "nroProcesso": "1 DOC PROT 159.484/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Motivo:1DOC-PROTOCOLO 159.484/2023-DECIS\u00c3O-PGM/PGA DESPACHO 2-159.484/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163553488",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163553488,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163754636",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163754636,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163954010",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 163954010,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164085376",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164085376,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 164110231",
+                "dividasMovtos": {
+                    "comentario": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687",
+                    "dhManutencao": "2023-10-19 11:09:19",
+                    "dhMovimentacao": "2023-10-19 11:09:19",
+                    "idDividas": 164110231,
+                    "nroProcesso": "MEMO 88681/2023-1DOC",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "IM\u00d3VEL ARREMATADO EM HASTA P\u00daBLICA-DEBITO GRAVADO NO CPF 53013778687"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995314",
+                "dividasMovtos": {
+                    "comentario": "migra\u00e7\u00e3o incorreta",
+                    "dhManutencao": "2023-10-16 14:24:23",
+                    "dhMovimentacao": "2023-10-16 14:24:23",
+                    "idDividas": 163995314,
+                    "nroProcesso": null,
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "migra\u00e7\u00e3o incorreta"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163995082",
+                "dividasMovtos": {
+                    "comentario": "Cancelada no Sifan",
+                    "dhManutencao": "2023-10-05 16:05:13",
+                    "dhMovimentacao": "2023-10-05 16:05:13",
+                    "idDividas": 163995082,
+                    "nroProcesso": "0001",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "Cancelada no Sifan"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163883928",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163883928,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            },
+            {
+                "idIntegracao": "id divida 163952744",
+                "dividasMovtos": {
+                    "comentario": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023",
+                    "dhManutencao": "2023-09-29 10:04:46",
+                    "dhMovimentacao": "2023-09-29 10:04:46",
+                    "idDividas": 163952744,
+                    "nroProcesso": "75.641/2023",
+                    "tiposMovimentacoesDivida": "COMENTARIO",
+                    "obsHomologManutencao": "1DOC-PROTOCOLO 75.641/2023-RO 91/2023-DECIS\u00c3O SF/AAT/DRI/SIPTU-DESPACHO 12-75.641/2023"
+                }
+            }
+        ]
+    }
+]

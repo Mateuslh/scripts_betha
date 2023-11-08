@@ -1,0 +1,1398 @@
+[
+    {
+        "-6720805379649167551": [
+            {
+                "idIntegracao": "numero_parcelamento 24512023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016586"
+                    },
+                    "nroProcesso": "24512023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13932023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016587"
+                    },
+                    "nroProcesso": "13932023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17782023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016588"
+                    },
+                    "nroProcesso": "17782023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16152023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016589"
+                    },
+                    "nroProcesso": "16152023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13662023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016590"
+                    },
+                    "nroProcesso": "13662023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13672023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016591"
+                    },
+                    "nroProcesso": "13672023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13692023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016592"
+                    },
+                    "nroProcesso": "13692023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13702023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016593"
+                    },
+                    "nroProcesso": "13702023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13722023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016594"
+                    },
+                    "nroProcesso": "13722023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13762023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016595"
+                    },
+                    "nroProcesso": "13762023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 13992023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016596"
+                    },
+                    "nroProcesso": "13992023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 14042023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016597"
+                    },
+                    "nroProcesso": "14042023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21142023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016598"
+                    },
+                    "nroProcesso": "21142023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 14232023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016599"
+                    },
+                    "nroProcesso": "14232023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 14452023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016600"
+                    },
+                    "nroProcesso": "14452023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 14522023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016601"
+                    },
+                    "nroProcesso": "14522023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 14582023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016602"
+                    },
+                    "nroProcesso": "14582023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 15622023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016603"
+                    },
+                    "nroProcesso": "15622023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17842023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016604"
+                    },
+                    "nroProcesso": "17842023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17832023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016605"
+                    },
+                    "nroProcesso": "17832023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 15512023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016606"
+                    },
+                    "nroProcesso": "15512023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 15722023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016607"
+                    },
+                    "nroProcesso": "15722023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 15982023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016608"
+                    },
+                    "nroProcesso": "15982023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16052023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016609"
+                    },
+                    "nroProcesso": "16052023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16162023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016610"
+                    },
+                    "nroProcesso": "16162023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16322023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016611"
+                    },
+                    "nroProcesso": "16322023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23752023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016612"
+                    },
+                    "nroProcesso": "23752023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16622023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016613"
+                    },
+                    "nroProcesso": "16622023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16942023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016614"
+                    },
+                    "nroProcesso": "16942023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 16992023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016615"
+                    },
+                    "nroProcesso": "16992023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17102023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016616"
+                    },
+                    "nroProcesso": "17102023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17162023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016617"
+                    },
+                    "nroProcesso": "17162023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21812023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016618"
+                    },
+                    "nroProcesso": "21812023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17412023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016619"
+                    },
+                    "nroProcesso": "17412023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17452023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016620"
+                    },
+                    "nroProcesso": "17452023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17462023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016621"
+                    },
+                    "nroProcesso": "17462023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17682023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016622"
+                    },
+                    "nroProcesso": "17682023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 17922023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016623"
+                    },
+                    "nroProcesso": "17922023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21182023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016624"
+                    },
+                    "nroProcesso": "21182023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18172023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016625"
+                    },
+                    "nroProcesso": "18172023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18242023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016626"
+                    },
+                    "nroProcesso": "18242023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18262023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016627"
+                    },
+                    "nroProcesso": "18262023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18362023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016628"
+                    },
+                    "nroProcesso": "18362023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18372023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016629"
+                    },
+                    "nroProcesso": "18372023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18582023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016630"
+                    },
+                    "nroProcesso": "18582023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18652023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016631"
+                    },
+                    "nroProcesso": "18652023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18662023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016632"
+                    },
+                    "nroProcesso": "18662023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18672023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016633"
+                    },
+                    "nroProcesso": "18672023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18682023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016634"
+                    },
+                    "nroProcesso": "18682023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 18692023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016635"
+                    },
+                    "nroProcesso": "18692023-PARC.SIMULADO"
+                }
+            }
+        ],
+        "5244554412509646154": [
+            {
+                "idIntegracao": "numero_parcelamento 18772023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016636"
+                    },
+                    "nroProcesso": "18772023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 19332023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016637"
+                    },
+                    "nroProcesso": "19332023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 19382023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016638"
+                    },
+                    "nroProcesso": "19382023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20962023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016639"
+                    },
+                    "nroProcesso": "20962023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 19762023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016640"
+                    },
+                    "nroProcesso": "19762023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 19822023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016641"
+                    },
+                    "nroProcesso": "19822023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24172023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016642"
+                    },
+                    "nroProcesso": "24172023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24192023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016643"
+                    },
+                    "nroProcesso": "24192023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22442023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016644"
+                    },
+                    "nroProcesso": "22442023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20302023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016645"
+                    },
+                    "nroProcesso": "20302023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20412023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016646"
+                    },
+                    "nroProcesso": "20412023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20422023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016647"
+                    },
+                    "nroProcesso": "20422023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20432023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016648"
+                    },
+                    "nroProcesso": "20432023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20442023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016649"
+                    },
+                    "nroProcesso": "20442023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20452023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016650"
+                    },
+                    "nroProcesso": "20452023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20462023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016651"
+                    },
+                    "nroProcesso": "20462023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20472023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016652"
+                    },
+                    "nroProcesso": "20472023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20482023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016653"
+                    },
+                    "nroProcesso": "20482023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 20542023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016654"
+                    },
+                    "nroProcesso": "20542023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24132023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016655"
+                    },
+                    "nroProcesso": "24132023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23762023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016656"
+                    },
+                    "nroProcesso": "23762023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21002023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016657"
+                    },
+                    "nroProcesso": "21002023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22722023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016658"
+                    },
+                    "nroProcesso": "22722023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21342023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016659"
+                    },
+                    "nroProcesso": "21342023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21402023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016660"
+                    },
+                    "nroProcesso": "21402023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21472023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016661"
+                    },
+                    "nroProcesso": "21472023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 21682023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016662"
+                    },
+                    "nroProcesso": "21682023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23042023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016663"
+                    },
+                    "nroProcesso": "23042023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22042023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016664"
+                    },
+                    "nroProcesso": "22042023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22302023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016665"
+                    },
+                    "nroProcesso": "22302023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22352023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016666"
+                    },
+                    "nroProcesso": "22352023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22362023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016667"
+                    },
+                    "nroProcesso": "22362023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22502023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016668"
+                    },
+                    "nroProcesso": "22502023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22572023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016669"
+                    },
+                    "nroProcesso": "22572023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22582023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016670"
+                    },
+                    "nroProcesso": "22582023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22612023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016671"
+                    },
+                    "nroProcesso": "22612023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22622023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016672"
+                    },
+                    "nroProcesso": "22622023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22632023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016673"
+                    },
+                    "nroProcesso": "22632023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22752023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016674"
+                    },
+                    "nroProcesso": "22752023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22762023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016675"
+                    },
+                    "nroProcesso": "22762023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22782023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016676"
+                    },
+                    "nroProcesso": "22782023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22862023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016677"
+                    },
+                    "nroProcesso": "22862023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22902023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016678"
+                    },
+                    "nroProcesso": "22902023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 22912023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016679"
+                    },
+                    "nroProcesso": "22912023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23052023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016680"
+                    },
+                    "nroProcesso": "23052023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23092023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016681"
+                    },
+                    "nroProcesso": "23092023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24832023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016682"
+                    },
+                    "nroProcesso": "24832023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24282023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016683"
+                    },
+                    "nroProcesso": "24282023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23152023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016684"
+                    },
+                    "nroProcesso": "23152023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23162023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016685"
+                    },
+                    "nroProcesso": "23162023-PARC.SIMULADO"
+                }
+            }
+        ],
+        "311980883161388523": [
+            {
+                "idIntegracao": "numero_parcelamento 23172023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016686"
+                    },
+                    "nroProcesso": "23172023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23212023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016687"
+                    },
+                    "nroProcesso": "23212023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24632023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016688"
+                    },
+                    "nroProcesso": "24632023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24642023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016689"
+                    },
+                    "nroProcesso": "24642023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23352023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016690"
+                    },
+                    "nroProcesso": "23352023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23362023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016691"
+                    },
+                    "nroProcesso": "23362023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23492023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016692"
+                    },
+                    "nroProcesso": "23492023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23772023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016693"
+                    },
+                    "nroProcesso": "23772023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23782023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016694"
+                    },
+                    "nroProcesso": "23782023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23842023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016695"
+                    },
+                    "nroProcesso": "23842023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23922023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016696"
+                    },
+                    "nroProcesso": "23922023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23932023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016697"
+                    },
+                    "nroProcesso": "23932023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24812023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016698"
+                    },
+                    "nroProcesso": "24812023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 23982023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016699"
+                    },
+                    "nroProcesso": "23982023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24042023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016700"
+                    },
+                    "nroProcesso": "24042023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24162023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016701"
+                    },
+                    "nroProcesso": "24162023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24202023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016702"
+                    },
+                    "nroProcesso": "24202023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24222023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016703"
+                    },
+                    "nroProcesso": "24222023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24232023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016704"
+                    },
+                    "nroProcesso": "24232023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24252023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016705"
+                    },
+                    "nroProcesso": "24252023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24322023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016706"
+                    },
+                    "nroProcesso": "24322023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24332023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016707"
+                    },
+                    "nroProcesso": "24332023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24362023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016708"
+                    },
+                    "nroProcesso": "24362023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24422023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016709"
+                    },
+                    "nroProcesso": "24422023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24432023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016710"
+                    },
+                    "nroProcesso": "24432023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24452023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016711"
+                    },
+                    "nroProcesso": "24452023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24462023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016712"
+                    },
+                    "nroProcesso": "24462023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24492023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016713"
+                    },
+                    "nroProcesso": "24492023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24592023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016714"
+                    },
+                    "nroProcesso": "24592023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24682023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016715"
+                    },
+                    "nroProcesso": "24682023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24702023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016716"
+                    },
+                    "nroProcesso": "24702023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24712023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016717"
+                    },
+                    "nroProcesso": "24712023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24722023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016718"
+                    },
+                    "nroProcesso": "24722023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24732023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016719"
+                    },
+                    "nroProcesso": "24732023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24742023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016720"
+                    },
+                    "nroProcesso": "24742023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24752023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016721"
+                    },
+                    "nroProcesso": "24752023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24762023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016722"
+                    },
+                    "nroProcesso": "24762023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24772023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016723"
+                    },
+                    "nroProcesso": "24772023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24802023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016724"
+                    },
+                    "nroProcesso": "24802023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24872023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016725"
+                    },
+                    "nroProcesso": "24872023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24882023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016726"
+                    },
+                    "nroProcesso": "24882023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24902023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016727"
+                    },
+                    "nroProcesso": "24902023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24912023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016728"
+                    },
+                    "nroProcesso": "24912023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24932023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016729"
+                    },
+                    "nroProcesso": "24932023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24972023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016730"
+                    },
+                    "nroProcesso": "24972023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 24992023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016731"
+                    },
+                    "nroProcesso": "24992023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25002023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016732"
+                    },
+                    "nroProcesso": "25002023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25012023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016733"
+                    },
+                    "nroProcesso": "25012023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25032023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016734"
+                    },
+                    "nroProcesso": "25032023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25042023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016735"
+                    },
+                    "nroProcesso": "25042023-PARC.SIMULADO"
+                }
+            }
+        ],
+        "-966660795963038620": [
+            {
+                "idIntegracao": "numero_parcelamento 25052023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016736"
+                    },
+                    "nroProcesso": "25052023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25062023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016737"
+                    },
+                    "nroProcesso": "25062023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25072023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016738"
+                    },
+                    "nroProcesso": "25072023-PARC.SIMULADO"
+                }
+            },
+            {
+                "idIntegracao": "numero_parcelamento 25102023",
+                "parcelamentos": {
+                    "idGerado": {
+                        "id": "24016739"
+                    },
+                    "nroProcesso": "25102023-PARC.SIMULADO"
+                }
+            }
+        ]
+    }
+]
