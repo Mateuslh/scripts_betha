@@ -1,6 +1,6 @@
 import requests
-from scripts_betha.domain.ClassHeaders import Headers
-from scripts_betha.tool_box.listas import flatten
+import domain.ClassHeaders
+from tool_box.listas import flatten
 class RequisicaoTela:
     header = Headers()
 

@@ -1,12 +1,14 @@
 import json
 import os
+from datetime import datetime
 from typing import Union
 
 from requests import request
-from scripts_betha.tool_box.arquivos.arquivo_json import escrever_em_json,ler_de_json
-from scripts_betha.tool_box.arquivos.pastas import cria_pasta
-from scripts_betha.tool_box.listas import collate, groupBy
-from datetime import datetime
+
+from tool_box.arquivos.arquivo_json import escrever_em_json, ler_de_json
+from tool_box.arquivos.pastas import cria_pasta
+from tool_box.listas import collate, groupBy
+
 
 class RequisicaoServiceLayer:
     def __init__(self, Method: str, Purl: str = None, Pdata: Union[dict, str] = None, Pheaders: object = None, Pfiles: object = None, Pjson: object = None, Pparam: object = None,
@@ -54,6 +56,7 @@ class RequisicaoServiceLayer:
         for uuid, lote in self.__lotes.items():
             try:
                 resposta = request(method=self.method, url=self.url, json=lote, headers=self.headers)
+                print(resposta.text)
                 retorno = {
                     "hash": uuid,
                     "retorno": resposta.text
